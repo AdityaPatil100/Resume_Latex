@@ -33,6 +33,8 @@ You can upload the LaTeX files directly to Overleaf for an easy online editing e
 
 Alternatively, you can copy-paste the content into a new project on Overleaf.
 
+![Screenshot 2025-01-16 143718](https://github.com/user-attachments/assets/c8c3b1a5-497c-42d6-b294-08704c56964d)
+
 ---
 
 ## 3. Customize the Resume
