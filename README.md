@@ -1,5 +1,4 @@
 # Resume_Latex
-# Sample Resume (LaTeX)
 
 This repository contains a LaTeX template for generating a professional resume. The resume is designed with a clean, modern look and can be easily customized to reflect your personal details, work experience, skills, projects, and more.
 
